@@ -15,6 +15,7 @@ Web development containerized packages based on react and next.js
 
 ## Future plans
 Tensorflow LSTM - in progress
+
 Android Studio - future planned
 
 ## Contributing
