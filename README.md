@@ -1,6 +1,6 @@
 # Welcome!
 
-Please feel free to browse my repositories. You will find ABAP, Python, and eventually some C# entries.
+Please feel free to browse my repositories. You will find ABAP, Python, React ( JSX, TSX ), next.js, and cyber security categories.
 
 ## Current Highlights
 Python Networking tools to help with learning and testing network concepts
