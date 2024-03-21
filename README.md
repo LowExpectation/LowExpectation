@@ -9,12 +9,13 @@ SAP ABAP S/4 snippets and frameworks to help with performance and modernization
 
 Python learner programs to give a fun way to jump into python
 
+Cyber Security techniques and technology examples
+
+Web development containerized packages based on react and next.js
+
 ## Future plans
-Tensorflow LSTM
-
-Python CIFS/SMB Android APK
-
-C# implementations
+Tensorflow LSTM - in progress
+Android Studio - future planned
 
 ## Contributing
 
