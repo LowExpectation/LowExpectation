@@ -1,5 +1,9 @@
 # Welcome!
 
+Welcome to my repository. I am a developer that is looking to take on many challenges especially in the cyber security and web development fields. I currently have seven plus years of experience in corporate and small business environments. I have a Security + certification from CompTIA and I am working toward a Network + certification. 
+
+## Repository Overview
+
 Please feel free to browse my repositories. You will find `ABAP`, `Python`, `React ( JSX, TSX )`, `next.js`, and `cyber security` categories.
 
 ## Current Highlights
@@ -10,7 +14,7 @@ Please feel free to browse my repositories. You will find `ABAP`, `Python`, `Rea
 - Cyber Security techniques and technology examples
 - Web development containerized packages based on react and next.js
 
-## Future plans
+## Future Plans
 
 - Tensorflow LSTM - in progress
 - Android Studio - future planned
