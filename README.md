@@ -1,6 +1,6 @@
 # Welcome!
 
-Welcome to my repository. I am a developer that is looking to take on many challenges especially in the cyber security and web development fields. I currently have seven plus years of experience in corporate and small business environments. I have a Security + certification from CompTIA and I am working toward a Network + certification. 
+Welcome to my repository. I am a developer that is looking to take on many challenges especially in the development of SAP and Web based frameworks like Next.js. I currently have seven plus years of experience in corporate and small business environments. I have a Security + certification from CompTIA and I am working toward a Network + certification. 
 
 ## Repository Overview
 
