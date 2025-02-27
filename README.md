@@ -1,10 +1,10 @@
 # Welcome!
 
-Welcome to my repository. I am a developer that is looking to take on many challenges especially in the development of SAP and Web based frameworks like Next.js. I currently have seven plus years of experience in corporate and small business environments. I have a Security + certification from CompTIA and I am working toward a Network + certification. 
+Welcome to my repository. I am a developer that is looking to take on many challenges in SAP, web based frameworks like Next.js, and cyber security. I currently have seven plus years of experience in corporate, small business, and federal government environments providing world class development support. 
 
 ## Repository Overview
 
-Please feel free to browse my repositories. You will find `ABAP`, `Python`, `React ( JSX, TSX )`, `next.js`, and `cyber security` categories.
+Please feel free to browse my repositories. You will find `ABAP/SAP`, `Python`, `React ( JS/JSX, TS/TSX )`, `next.js`, and `cyber security` categories.
 
 ## Current Highlights
 
@@ -16,10 +16,10 @@ Please feel free to browse my repositories. You will find `ABAP`, `Python`, `Rea
 
 ## Future Plans
 
-- Tensorflow LSTM - in progress
-- Android Studio - future planned
-- More nextjs
-- More cyber security themes
+- SAP CDS examples I need to upload
+- SAP documentation for enhancements and extensibility
+- Python projects I am doing for fun
+- SAP Fiori learnings and tips/tricks
 
 ## Contributing
 
