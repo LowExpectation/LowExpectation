@@ -4,7 +4,12 @@ Welcome to my repository. I am a developer that is looking to take on many chall
 
 ## Repository Overview
 
-Please feel free to browse my repositories. You will find `ABAP/SAP`, `Python`, `React ( JS/JSX, TS/TSX )`, `next.js`, and `cyber security` categories.
+Please feel free to browse my repositories. You will find topics like:
+- `SAP`
+- `Python`
+- `React ( JS/JSX, TS/TSX )`
+- `next.js`
+- `cyber security categories`
 
 ## Current Highlights
 
